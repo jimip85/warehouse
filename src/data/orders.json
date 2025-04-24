@@ -1,0 +1,122 @@
+[
+  {
+    "orderId": 1,
+    "orderDate": "2025-04-21",
+    "orderTotal": 900,
+    "customerName": "John Smith",
+    "customerEmail": "johnsmith@joshsmith.com",
+    "shippingAddress": "100 Dundas Street East",
+    "lineItems": [
+      { "lineId": 1, "productId": 1, "productName": "Birthday Box", "price": 200 },
+      { "lineId": 2, "productId": 2, "productName": "Valentines Box", "price": 300 },
+      { "lineId": 3, "productId": 3, "productName": "Client Gift Box", "price": 200 },
+      { "lineId": 4, "productId": 3, "productName": "Client Gift Box", "price": 200 }
+    ]
+  },
+  {
+    "orderId": 2,
+    "orderDate": "2025-04-21",
+    "orderTotal": 200,
+    "customerName": "Emily Johnson",
+    "customerEmail": "emily.johnson@example.com",
+    "shippingAddress": "22 Queen Street West",
+    "lineItems": [
+      { "lineId": 1, "productId": 1, "productName": "Birthday Box", "price": 200 }
+    ]
+  },
+  {
+    "orderId": 3,
+    "orderDate": "2025-04-21",
+    "orderTotal": 500,
+    "customerName": "Carlos Rivera",
+    "customerEmail": "carlos.rivera@example.com",
+    "shippingAddress": "45 King Street North",
+    "lineItems": [
+      { "lineId": 1, "productId": 2, "productName": "Valentines Box", "price": 300 },
+      { "lineId": 2, "productId": 3, "productName": "Client_Gift Box", "price": 200 }
+    ]
+  },
+  {
+    "orderId": 4,
+    "orderDate": "2025-04-21",
+    "orderTotal": 200,
+    "customerName": "Aisha Patel",
+    "customerEmail": "aisha.patel@example.com",
+    "shippingAddress": "789 Bloor Street",
+    "lineItems": [
+      { "lineId": 1, "productId": 3, "productName": "Client Gift Box", "price": 200 }
+    ]
+  },
+  {
+    "orderId": 7,
+    "orderDate": "2025-04-22",
+    "orderTotal": 500,
+    "customerName": "Mason Taylor",
+    "customerEmail": "mason.taylor@example.com",
+    "shippingAddress": "123 Cedar Court",
+    "lineItems": [
+      { "lineId": 2, "productId": 2, "productName": "Valentines Box", "price": 300 },
+      { "lineId": 1, "productId": 3, "productName": "Client Gift Box", "price": 200 }
+    ]
+  },
+  {
+    "orderId": 5,
+    "orderDate": "2025-04-22",
+    "orderTotal": 200,
+    "customerName": "David Lee",
+    "customerEmail": "david.lee@example.com",
+    "shippingAddress": "88 Spadina Avenue",
+    "lineItems": [
+      { "lineId": 1, "productId": 3, "productName": "Client Gift Box", "price": 200 }
+    ]
+  },
+  {
+    "orderId": 8,
+    "orderDate": "2025-04-23",
+    "orderTotal": 500,
+    "customerName": "Noah Garcia",
+    "customerEmail": "noah.garcia@example.com",
+    "shippingAddress": "78 Pine Lane",
+    "lineItems": [
+      { "lineId": 2, "productId": 2, "productName": "Valentines Box", "price": 300 },
+      { "lineId": 3, "productId": 1, "productName": "Birthday Box", "price": 200 }
+    ]
+  },
+  {
+    "orderId": 6,
+    "orderDate": "2025-04-23",
+    "orderTotal": 700,
+    "customerName": "Noah Garcia",
+    "customerEmail": "noah.garcia@example.com",
+    "shippingAddress": "78 Pine Lane",
+    "lineItems": [
+      { "lineId": 3, "productId": 1, "productName": "Birthday Box", "price": 200 },
+      { "lineId": 2, "productId": 2, "productName": "Valentines Box", "price": 300 },
+      { "lineId": 1, "productId": 3, "productName": "Client Gift Box", "price": 200 }
+    ]
+  },
+  {
+    "orderId": 9,
+    "orderDate": "2025-04-24",
+    "orderTotal": 700,
+    "customerName": "Olivia Wilson",
+    "customerEmail": "olivia.wilson@example.com",
+    "shippingAddress": "56 Oak Drive",
+    "lineItems": [
+      { "lineId": 1, "productId": 3, "productName": "Client Gift Box", "price": 200 },
+      { "lineId": 2, "productId": 2, "productName": "Valentines Box", "price": 300 },
+      { "lineId": 3, "productId": 1, "productName": "Birthday Box", "price": 200 }
+    ]
+  },
+  {
+    "orderId": 10,
+    "orderDate": "2025-04-24",
+    "orderTotal": 200,
+    "customerName": "Isabella Anderson",
+    "customerEmail": "isabella.anderson@example.com",
+    "shippingAddress": "456 Spruce Terrace",
+    "lineItems": [
+      { "lineId": 1, "productId": 3, "productName": "Client Gift Box", "price": 200 }
+    ]
+  }
+]
